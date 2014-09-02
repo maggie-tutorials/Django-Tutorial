@@ -10,7 +10,17 @@ Tutorial to learn Django on [DjangoGirls](http://tutorial.djangogirls.org/)
 - Django
 - Python
 
+###How it works
 
-Once it will be finished, it will look like this:
+`git clone https://github.com/mserino/Django-Tutorial`
 
-![DjangoTutorial](http://tutorial.djangogirls.org/images/application.png)
+`cd Django-Tutorial`
+
+`python manage.py runserver`
+
+and in the browser go to: `http://127.0.0.1:8000/`
+
+enjoy!
+
+###What it looks like?
+![Django Tutorial](https://dl.dropboxusercontent.com/u/79955713/github/django-tutorial.png)
