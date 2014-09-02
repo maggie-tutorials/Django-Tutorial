@@ -22,5 +22,8 @@ and in the browser go to: `http://127.0.0.1:8000/`
 
 enjoy!
 
+###What's missing?
+- Not covered by TDD
+
 ###What it looks like?
 ![Django Tutorial](https://dl.dropboxusercontent.com/u/79955713/github/django-tutorial.png)
